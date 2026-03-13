@@ -31,4 +31,4 @@ A few key customers generate a large portion of revenue.
 
 Monthly profit trends help identify high-performing and low-performing periods.
 
-✅ Tip for GitHub:
+
